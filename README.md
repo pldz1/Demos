@@ -8,7 +8,7 @@
 
 - 2️⃣ [github.io 预览](https://pldz1.github.io/_codespace/sse_markdown/index.html)
 
-- 3️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/master/sse_markdown)
+- 3️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/main/sse_markdown)
 
 - 4️⃣ [CSDN 博客介绍](https://blog.csdn.net/qq_42727752/article/details/145092638)
 
@@ -22,7 +22,7 @@
 
 前言 JS 和 Python 是比较受欢迎的两个调用 OpenAI 对话 API 的两个库, 这里 简单记录这两个库对 OpenAI 的对话(Chat)和图像(Image)的使用.
 
-- 1️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/master/learn_chat_image_api)
+- 1️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/main/learn_chat_image_api)
 
 - 2️⃣ [CSDN 博客介绍](https://blog.csdn.net/qq_42727752/article/details/145082786)
 
@@ -36,7 +36,7 @@
 
 简单的 Python 全代理服务器
 
-- 1️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/master/python_proxy)
+- 1️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/main/python_proxy)
 
 - 2️⃣ [CSDN 博客介绍](https://blog.csdn.net/qq_42727752)
 

@@ -7,11 +7,11 @@
       <div class="custom-sse-content">
         <div class="proj-description">
           <a
-            href="https://github.com/pldz1/Demos/tree/master/sse_markdown"
+            href="https://github.com/pldz1/Demos/tree/main/sse_markdown"
             target="_blank"
             rel="noopener noreferrer"
             >1️⃣ Github 源码:
-            https://github.com/pldz1/Demos/tree/master/sse_markdown</a
+            https://github.com/pldz1/Demos/tree/main/sse_markdown</a
           >
           <a
             href="https://blog.csdn.net/qq_42727752/article/details/145092638"
