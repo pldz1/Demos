@@ -6,15 +6,13 @@
 
 - 1️⃣ [个人网站预览效果](https://pldz1.com/_codespace/sse_markdown/index.html)
 
-- 2️⃣ [github.io 预览](https://pldz1.github.io/_codespace/sse_markdown/index.html)
+- 2️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/main/sse_markdown)
 
-- 3️⃣ [Github 源码](https://github.com/pldz1/Demos/tree/main/sse_markdown)
+- 3️⃣ [CSDN 博客介绍](https://blog.csdn.net/qq_42727752/article/details/145092638)
 
-- 4️⃣ [CSDN 博客介绍](https://blog.csdn.net/qq_42727752/article/details/145092638)
+- 4️⃣ [掘金 博客介绍](https://juejin.cn/post/7458656534718316595)
 
-- 5️⃣ [掘金 博客介绍](https://juejin.cn/post/7458656534718316595)
-
-- 6️⃣ [其他有趣内容](https://pldz1.com/codespace)
+- 5️⃣ [其他有趣内容](https://pldz1.com/codespace)
 
 ---
 
