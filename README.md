@@ -8,7 +8,7 @@
 
 - 3️⃣ [Github 源码](https://github.com/pldz1/demos/tree/main/sse_markdown)
 
-- 4️⃣ [CSDN 博客介绍](https://blog.csdn.net/qq_42727752/article/details/145092638)
+- 4️⃣ [掘金 博客介绍](https://juejin.cn/post/7458656534718316595)
 
 - 5️⃣ [掘金 博客介绍](https://juejin.cn/post/7458656534718316595)
 
