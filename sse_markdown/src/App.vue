@@ -7,11 +7,11 @@
       <div class="custom-sse-content">
         <div class="proj-description">
           <a
-            href="https://github.com/pldz1/Demos/tree/main/sse_markdown"
+            href="https://github.com/pldz1/demos/tree/main/sse_markdown"
             target="_blank"
             rel="noopener noreferrer"
             >1️⃣ Github 源码:
-            https://github.com/pldz1/Demos/tree/main/sse_markdown</a
+            https://github.com/pldz1/demos/tree/main/sse_markdown</a
           >
           <a
             href="https://blog.csdn.net/qq_42727752/article/details/145092638"
@@ -28,12 +28,8 @@
           >
             3️⃣ 掘金 博客介绍: https://juejin.cn/post/7458656534718316595</a
           >
-          <a
-            href="https://pldz1.com/codespace"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            4️⃣ 其他有趣内容: https://pldz1.com/codespace</a
+          <a href="https://pldz1.com" target="_blank" rel="noopener noreferrer">
+            4️⃣ 其他有趣内容: https://pldz1.com</a
           >
         </div>
 
